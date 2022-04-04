@@ -278,7 +278,7 @@ export default {
 						.content {
 							color: #FFF;
 							font-weight: 600;
-							background-color: #465efc;
+							background-color: rgba(70, 94, 252, 0.71)
 						}
 					}
 				}
